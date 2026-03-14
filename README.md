@@ -100,12 +100,6 @@ Automated plant care system with sensor integration and mobile control.
 
 ---
 
-## 🎓 Education
-
-**University College of Engineering (BIT Campus), Anna University**  
-Bachelor of Engineering in Computer Science | 2025  
-CGPA: 7.4/10
-
 ---
 
 ## 🏆 Achievements & Certifications
