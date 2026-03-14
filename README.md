@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm an entry-level **Full Stack Developer** with hands-on experience in building scalable applications. Passionate about creating intuitive mobile experiences with **Flutter**, robust backends with **Laravel & Spring Boot**, and exploring **IoT solutions**. 
+I'm a **Full Stack Developer** with hands-on experience in building scalable applications. Passionate about creating intuitive mobile experiences with **Flutter**, robust backends with **Laravel & Spring Boot**, and exploring **IoT solutions**. 
 
 Proficient in problem-solving, and committed to writing clean, maintainable code. Currently exploring **GenAI tools** like Claude, ChatGPT, and Ollama for innovative solutions. When I'm not coding, I'm contributing to the open-source community through **FOSS United**.
 
