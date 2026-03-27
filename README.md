@@ -57,65 +57,6 @@ Proficient in problem-solving, and committed to writing clean, maintainable code
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Tool-10A37F?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_Models-FF6B35?style=flat-square)
 
----
-
-## 💼 Projects
-
-### 📱 **IoT Smart Home Solution** (Final Year Project)
-A complete smart home automation system integrating hardware and software seamlessly.
-- **Frontend**: Flutter mobile app with real-time controls
-- **Backend**: Laravel API for device management & RESTful endpoints
-- **Hardware**: ESP32 programmed in C for device connectivity
-- **Skills**: IoT integration, real-time data communication, hardware-software integration
-- **Status**: ✅ Real-time working project
-
-### 🍽️ **Restaurant Reservation System**
-Full-featured Laravel application for restaurant bookings and management.
-- **Authentication**: Laravel Sanctum middleware
-- **Frontend**: Breeze library with Blade templates
-- **Database**: MySQL with optimized queries
-- **Skills**: Authentication, authorization, OOP design patterns
-- **Highlights**: Second complete Laravel project showcasing production practices
-
-### 💻 **Debugging Application**
-Interactive coding competition platform built for college symposium.
-- **Deployment**: Hosted on Hostinger cloud infrastructure
-- **Real-time**: Live execution environment
-- **Skills**: Cloud deployment, real-time processing
-- **Achievement**: Successfully organized and managed competitive programming event
-
-### 📲 **Flutter Mobile Applications**
-- **TODO App**: First Flutter project - state management & widget lifecycle
-- **Coffee Shop App**: Route navigation & UI design patterns
-- **Skills Developed**: Widgets, State Management (Provider), Route Navigation
-
-### 📝 **Blog Automation**
-Automated blog deployment using modern static site generators.
-- **Stack**: Hugo templates + Shell scripting
-- **Deployment**: Auto-deployment on Hostinger
-- **Automation**: CI/CD pipeline for publishing workflow
-
-### 🌱 **IoT Plant Watering System**
-Automated plant care system with sensor integration and mobile control.
-
----
-
----
-
-## 🏆 Achievements & Certifications
-
-- **TOP CODERS '23, '24** - Competitive programming competitions
-- **Internship at MAAC Technologies** - Web Technologies & SEO
-  - Stripe API integration for payments
-  - Laravel Sanctum authentication implementation
-- **Prompt Engineering** - GUVI Learning Platform
-- **Class Representative** - Bridging student-faculty communication
-- **Event Organizer** - "Green Initiative" (500+ trees planted)
-- **Public Speaking Workshop Organizer** - Building communication confidence
-- **NSS & Rotaract Club Member** - Community service & leadership
-- **FOSS United Member** - Open-source community contributor
-
----
 
 ## 📊 GitHub Stats
 
