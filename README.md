@@ -57,7 +57,7 @@ Proficient in problem-solving, and committed to writing clean, maintainable code
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Tool-10A37F?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_Models-FF6B35?style=flat-square)
 
-
+---
 ## 📊 GitHub Stats
 
 <div align="center">
