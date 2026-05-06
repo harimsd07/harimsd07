@@ -1,108 +1,143 @@
-# 👨‍💻 Hari Hara Sudhan A
-
-> **Full Stack & Mobile Developer** | Flutter • Laravel • Spring Boot | IoT & AI Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irah07)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harimsd07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irah07@tutanota.com)
-
----
-
-## 🚀 About Me
-
-I'm a **Full Stack Developer** with hands-on experience in building scalable applications. Passionate about creating intuitive mobile experiences with **Flutter**, robust backends with **Laravel & Spring Boot**, and exploring **IoT solutions**. 
-
-Proficient in problem-solving, and committed to writing clean, maintainable code. Currently exploring **GenAI tools** like Claude, ChatGPT, and Ollama for innovative solutions. When I'm not coding, I'm contributing to the open-source community through **FOSS United**.
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-State_Management-FF6C37?style=flat-square)
-![BLoC](https://img.shields.io/badge/BLoC-State_Management-0175C2?style=flat-square)
-
-### **Backend Development**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![REST_APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
-
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### **Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### **AI & ML Tools**
-![Claude](https://img.shields.io/badge/Claude-AI_Assistant-000000?style=flat-square)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Tool-10A37F?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-Local_Models-FF6B35?style=flat-square)
-
----
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=harimsd07&show_icons=true&theme=tokyonight)
+```
+██╗██████╗  █████╗ ██╗  ██╗
+██║██╔══██╗██╔══██╗██║  ██║
+██║██████╔╝███████║███████║
+██║██╔══██╗██╔══██║██╔══██║
+██║██║  ██║██║  ██║██║  ██║
+╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harimsd07&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# Hari Hara Sudhan A
+
+**Full Stack · AI/LLM Developer · Flutter · Linux Power User**
+
+*Building from Tiruchirappalli, Tamil Nadu 🇮🇳*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://harihara.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irah07)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harimsd07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/irah07)
+[![Email](https://img.shields.io/badge/tutanota-840010?style=for-the-badge&logo=tutanota&logoColor=white)](mailto:irah07@tutanota.com)
 
 </div>
 
 ---
 
-## 🎯 What I'm Currently Doing
-
-- 🚀 **Exploring Advanced State Management** in Flutter (BLoC, Riverpod)
-- 🤖 **Building AI-powered Applications** with Claude & local Ollama models
-- 📚 **Data Structures & Algorithms** practice on LeetCode
-- 🔗 **Contributing to Open Source** through FOSS United community
-- 💡 **Learning IoT Best Practices** for scalable hardware-software integration
-
----
-
-## 💬 Let's Connect!
-
-I'm always interested in:
-- Collaborating on Flutter & Laravel projects
-- Open-source contributions
-- Discussing IoT solutions & full-stack development
-- Technical mentoring & knowledge sharing
-
-📧 **Email**: irah07@tutanota.com    
-🌍 **Location**: Tiruchirappalli, Tamil Nadu, India
+```python
+class IRAH:
+    name       = "Hari Hara Sudhan A"
+    location   = "Trichy, Tamil Nadu 🐧"
+    role       = ["Full Stack Dev", "AI/LLM Dev", "Flutter Dev"]
+    os         = "Arch Linux (btw)"
+    current    = "Freelance AI Dev @ Rudratic Technologies"
+    building   = ["Multi-Agent AI Systems", "IoT Automation", "Social Automation"]
+```
 
 ---
 
-## 💡 Fun Fact
+## ⚡ What I Actually Do
 
-I'm passionate about creating technology solutions that make a difference. My mother's support has been my greatest motivation to grow as a developer and contribute meaningfully to the tech community. 🙏
+- 🤖 Build **multi-agent AI systems** using CrewAI + Groq + ChromaDB + FastAPI
+- 📱 Ship **Flutter apps** with Riverpod, BLoC, Provider — from IoT dashboards to exam prep PWAs
+- 🌐 Build **Laravel backends** with Sanctum, Reverb, REST APIs, MySQL
+- 🐧 Run **Arch Linux** as daily driver with Hyprland — terminal is home
+- 🔁 Automate **social media pipelines** — RSS → LLM → LinkedIn, Twitter, Instagram
+- 🔐 Learning **bug bounty** — XSS, IDOR, PortSwigger Web Academy
+
+---
+
+## 🛠️ Stack
+
+### AI & LLM
+![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi_Agent-7c3aed?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-LLM_Inference-f97316?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Local_Models-111111?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-22c55e?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-a855f7?style=flat-square)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=flat-square)
+![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=flat-square)
+
+### Web & Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Linux & DevOps
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-WM-7c3aed?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-Hostinger-FF6C37?style=flat-square)
+
+---
+
+## 🔥 Active Projects
+
+| Project | Stack | Status |
+|---|---|---|
+| 🤖 Rudratic Multi-Agent AI | CrewAI + Groq + ChromaDB + FastAPI | 🟢 Active |
+| 📱 IoT Automation Platform | Flutter + Laravel + ESP8266 + Reverb | 🟢 Active |
+| 📧 Gmail Triage Agent | CrewAI + Groq + Telegram + Redis + Celery | 🟡 Late Dev |
+| 📣 IRAH Social Automation | RSS + LLM + LinkedIn + Instagram + Twitter | 🟡 Building |
+| 🏦 BankPrep PWA | React + Claude API + Node.js | ✅ Done |
+| 🛒 Kirana Store App | Flutter + Laravel + Razorpay | ✅ Done |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=harimsd07&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=a855f7&icon_color=7c3aed&text_color=ffffff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harimsd07&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=a855f7&text_color=ffffff)](https://github.com/harimsd07)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harimsd07&theme=radical&hide_border=true&background=0a0a0a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7)](https://github.com/harimsd07)
+
+</div>
+
+---
+
+## 🧠 Experience
+
+```
+
+2024 – 2025     →  Technical Trainer, Tamil Nadu Naan Mudhalvan (6 months)
+                   Trained students in web & AI technologies
+
+2024            →  Intern — Web Technologies & SEO
+                   Built and deployed real-time web projects
+```
+
+---
+
+
+
+## 🌐 Community
+
+- 🐧 **FOSS United** member — open source advocate
+- 🎤 **Public Speaking Workshop** organizer
+- 🌱 **Event Organizer** — Green Initiative (500+ trees planted)
+
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my work interesting, feel free to star my repositories!
+*Built on Arch btw 🐧 · Typed from Trichy · Powered by caffeine and terminal*
 
-**Made with ❤️ by Hari Hara Sudhan A**
+**© 2025 IRAH — Hari Hara Sudhan A**
 
 </div>
