@@ -100,13 +100,9 @@ class IRAH:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=harimsd07&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=a855f7&icon_color=7c3aed&text_color=ffffff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harimsd07&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=a855f7&text_color=ffffff)](https://github.com/harimsd07)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=harimsd07&theme=radical&hide_border=true&background=0a0a0a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7)](https://github.com/harimsd07)
-
+<img src="https://github-readme-stats.vercel.app/api?username=harimsd07&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=a855f7&icon_color=7c3aed&text_color=ffffff&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harimsd07&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=a855f7&text_color=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harimsd07&theme=radical&hide_border=true&background=0D0D0D&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888" />
 </div>
 
 ---
