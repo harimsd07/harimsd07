@@ -15,7 +15,8 @@
 
 *Building from Tiruchirappalli, Tamil Nadu 🇮🇳*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://harihara.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge)](https://irah-portfolio-beta.vercel.app/)
+[![Pinterest](https://img.shields.io/badge/PINTEREST-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/irah_nahdus/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irah07)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harimsd07)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/irah07)
